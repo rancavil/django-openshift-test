@@ -1,9 +1,9 @@
 Django on Openshift 
 -------------------
 
-This is a repository helps you to install and run Django 1.7 on Openshift.
+This repository helps you install and run Django 1.7 on Openshift.
 
-you can deploy django in three simple steps.
+You can deploy django in three simple steps.
 
 Step 1: Create a python application on Openshift.
 
